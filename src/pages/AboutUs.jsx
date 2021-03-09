@@ -1,5 +1,6 @@
 import React from "react";
 import AboutSection from "../components/AboutSection";
+import FAQSection from "../components/FAQSection";
 import ServicesSection from "../components/ServicesSection";
 
 const AboutUs = () => {
@@ -7,6 +8,7 @@ const AboutUs = () => {
     <div>
       <AboutSection />
       <ServicesSection />
+      <FAQSection />
     </div>
   );
 };
