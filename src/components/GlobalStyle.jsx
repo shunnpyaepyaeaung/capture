@@ -14,7 +14,7 @@ const GlobalStyle = createGlobalStyle`
         font-weight: bold;
         font-size: 1rem;
         cursor: pointer;
-        padding: 1rem 1.5rem;
+        padding: 1rem 1rem;
         border: 3px solid #23d997;
         background: transparent;
         color: white;
@@ -28,13 +28,14 @@ const GlobalStyle = createGlobalStyle`
     }
     h2{
             font-weight: lighter;
-            font-size: 3.5rem;
+            font-size: 3.15rem;
         }
         h3{
             color: white;
         }
         h4{
             font-weight: bold;
+            font-size: 1.5rem;
         }
         a{
             font-size: 1.1rem;
@@ -46,7 +47,7 @@ const GlobalStyle = createGlobalStyle`
         p{
             padding: 3rem 0rem;
             color: #ccc;
-            font-size: 1.2rem;
+            font-size: 1.1rem;
             line-height:150%;
         }
 `;
