@@ -58,6 +58,7 @@ const FAQSection = () => {
 };
 
 const Faq = styled(About)`
+  padding: 1rem 6rem;
   display: block;
   span {
     display: block;

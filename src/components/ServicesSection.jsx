@@ -54,6 +54,7 @@ const ServicesSection = () => {
 };
 
 const Services = styled(About)`
+  padding: 5rem 6rem;
   h2 {
     padding-bottom: 5rem;
   }
